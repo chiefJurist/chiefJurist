@@ -1,4 +1,4 @@
-I’m everywhere and nowhere... <br> And I own nothing and everything.
+I’m everywhere and nowhere. And I own nothing... <br> and everything.
 
 ### Hi there 👋 <br>
 
