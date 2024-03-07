@@ -1,4 +1,5 @@
-Welcome to this perplexing place. It's as confusing as it is my life's masterpiece, <br> given freely.
+Welcome to this perplexing place. It's as confusing as it is my life's masterpiece, <br> given freely. <br> <br>
+<img src="media/top.png" alt="">
 
 ## Overview
 - On an upward spiral 🚀🚀...
