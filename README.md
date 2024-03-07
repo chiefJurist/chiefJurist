@@ -17,4 +17,4 @@ Welcome to this perplexing place. It's as confusing as it is my life's masterpie
 
 
 <hr> 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/MartinsOnuoha)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/MartinsOnuoha)]
