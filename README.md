@@ -10,8 +10,8 @@ Welcome to this perplexing place. It's as confusing as it is my life's masterpie
 - ⚡ Fun fact: Yes, you can do it (❁´◡`❁)
 
 
-# My Portfolio
-You can find a collection of my projects showcasing my skills and experiences in software development.
+## My Portfolio
+- ⚒️ <a href="https://anthony-nnanna-portfolio.vercel.app/"> Anthony Nnanna </a> - a collection of my projects showcasing my skills and experiences in software development.
 
 
 
