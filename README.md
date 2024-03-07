@@ -6,7 +6,7 @@ Welcome to this perplexing place. It's as confusing as it is my life's masterpie
 
 ## Currently
 - 🔭 I’m currently working on contracted projects.
-- 🌱 I’m currently learning try my best.
+- 🌱 I’m currently learning to 100% try my best.
 - 💬 Ask me about software development, history and music.
 - ⚡ Fun fact: Yes, you can do it (❁´◡`❁)
 
