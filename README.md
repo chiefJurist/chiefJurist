@@ -1,6 +1,6 @@
 Welcome to this perplexing place. It's as confusing as it is my life's masterpiece... <br> given freely.
 
-## Overview 👋 <hr>
+## Overview
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
