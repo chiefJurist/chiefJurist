@@ -1,4 +1,6 @@
-### Hi there 👋
+I’m everywhere and nowhere... <br> And I own nothing and everything.
+
+### Hi there 👋 <br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
