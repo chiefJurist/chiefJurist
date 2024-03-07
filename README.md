@@ -1,4 +1,4 @@
-I’m everywhere and nowhere. And I own nothing... <br> and everything.
+Welcome to this perplexing place. It's as confusing as it is my life's masterpiece... <br> given freely.
 
 ### Hi there 👋 <br>
 
