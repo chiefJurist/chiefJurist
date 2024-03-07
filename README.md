@@ -1,14 +1,24 @@
 Welcome to this perplexing place. It's as confusing as it is my life's masterpiece, <br> given freely. <br> <br>
 <img src="media/top.png" alt="">
 
+
+
+
 ## Overview
 - On an upward spiral 🚀🚀...
+
+
+
 
 ## Currently
 - 🔭 I’m currently working on contracted projects.
 - 🌱 I’m currently learning to 100% try my best.
 - 💬 Ask me about software development, history and music.
 - ⚡ Fun fact: Yes, you can do it (❁´◡`❁)
+- 📫 How to reach me: anthonynnanna001@gmail.com 
+
+
+
 
 
 ## My Portfolio
