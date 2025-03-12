@@ -26,5 +26,4 @@ Welcome to this perplexing place. It's as confusing as it is my life's masterpie
 ## Let's Connect
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/chiefJurist)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](https://t.me/chief_jurist)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](mailto:anthonynnannac@gmail.com?subject=Job%20Inquiry&body=Hello%20Anthony%2C%20I%20am%20interested%20in%20your%20work.
-)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](mailto:anthonynnannac@gmail.com?subject=Job%20Inquiry&body=Hello%20Anthony%2C%20I%20am%20interested%20in%20working%20with%20you.)
