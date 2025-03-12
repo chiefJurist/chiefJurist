@@ -15,7 +15,7 @@ Welcome to this perplexing place. It's as confusing as it is my life's masterpie
 - 🌱 I’m currently learning to 100% try my best.
 - 💬 Ask me about software development, history and music.
 - ⚡ Fun fact: Yes, you can do it (❁´◡`❁)
-- 📫 How to reach me: anthonynnanna001@gmail.com <br> <br>
+- 📫 How to reach me: anthonynnannac@gmail.com <br> <br>
 
 
 
