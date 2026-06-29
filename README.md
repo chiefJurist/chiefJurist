@@ -1,4 +1,4 @@
-Welcome to this perplexing place. It's as confusing as it is my life's masterpiece, <br> given freely. <br> <br> <br> <br>
+Welcome to this perplexing place. It's my personal coding diary, <br> while creating cool stuffs. <br> <br> <br> <br>
 <img src="media/top.png" alt="">
 
 
@@ -20,7 +20,7 @@ Welcome to this perplexing place. It's as confusing as it is my life's masterpie
 
 
 ## My Portfolio
-- ⚒️ <a href="https://anthony-nnanna-portfolio.vercel.app/"> Anthony Nnanna </a> - a collection of my projects showcasing my skills and experiences in software development. <br> <br>
+- ⚒️ <a href="https://anthony-nnanna.vercel.app/"> Anthony Nnanna </a> - a collection of my projects showcasing my skills and experiences in software development. <br> <br>
 
 
 ## Let's Connect
