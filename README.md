@@ -12,9 +12,8 @@ Welcome to this perplexing place. It's my personal coding diary, <br> while crea
 
 ## Currently
 - 🔭 I’m currently working on contracted projects.
-- 🌱 I’m currently learning to 100% try my best.
-- 💬 Ask me about software development, history and music.
-- ⚡ Fun fact: Yes, you can do it (❁´◡`❁)
+- 💬 Ask me about software development, history and martial acts.
+- ⚡ Fun fact: If someone can, you can too (❁´◡`❁)
 - 📫 How to reach me: anthonynnannac@gmail.com <br> <br>
 
 
