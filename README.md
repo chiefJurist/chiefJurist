@@ -24,5 +24,5 @@ Welcome to this perplexing place. It's my personal coding diary, <br> while crea
 
 ## Let's Connect
 
-[<img src="media/github.png" alt="github">](https://github.com/chiefJurist)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='20'>](https://t.me/chief_jurist)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='20'>](mailto:anthonynnannac@gmail.com?subject=Job%20Inquiry&body=Hello%20Anthony%2C%20I%20am%20interested%20in%20working%20with%20you.) 
+[<img src="media/github.png" height='20' alt="github">](https://github.com/chiefJurist)  [<img src="media/telegram.png" height='20' alt="telegram">](https://t.me/chief_jurist)
+[<img src="media/email.png" height='20' alt="email">](mailto:anthonynnannac@gmail.com?subject=Job%20Inquiry&body=Hello%20Anthony%2C%20I%20am%20interested%20in%20working%20with%20you.) 
