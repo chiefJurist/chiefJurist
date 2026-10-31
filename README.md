@@ -13,7 +13,7 @@ Welcome to this perplexing place. It's my personal coding diary, <br> while crea
 ## Currently
 - 🔭 A web, moibile, backend and embedded systems engineer.
 - 💬 Ask me about software engineering, history and martial art.
-- ⚡ Fun fact: If someone else can, you can too.
+- ⚡ Fun fact: If it is achievable by another, it is attainable by me.
 - 📫 How to reach me: anthonynnannac@gmail.com <br> <br>
 
 
