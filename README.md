@@ -11,7 +11,7 @@ Welcome to this perplexing place. It's my personal coding diary, <br> while crea
 
 
 ## Currently
-- 🔭 I’m currently working on contracted projects.
+- 🔭 A web, moibile, backend and embedded systems engineer.
 - 💬 Ask me about software development, history and martial art.
 - ⚡ Fun fact: If someone else can, you can too (❁´◡`❁)
 - 📫 How to reach me: anthonynnannac@gmail.com <br> <br>
